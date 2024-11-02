@@ -1,1 +1,1 @@
-rootProject.name = "jfeeder-mqtt-gradle"
+rootProject.name = "feeder-mqtt-gradle"
