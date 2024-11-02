@@ -1,1 +1,1 @@
-web: java -jar --server.port=$PORT build/libs/feeder-mqtt-1.0.0-SNAPSHOT.jar
+web: java -jar build/libs/feeder-mqtt-1.0.0-SNAPSHOT.jar --server.port=$PORT
